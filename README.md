@@ -1,5 +1,5 @@
 ## A little vibe
-![Coding Vibes](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![Coding Vibes](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWsyZ3h5d2M3ZW02ZHFlMWNpMDE1MGU1M2x6MDUyanZlbDh5YzUyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif)
 
 
 I'm **Trintys**, a 24 year old Master's student in **Data Science & AI @tueindhoven** 🎓  
